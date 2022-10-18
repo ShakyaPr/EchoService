@@ -1,0 +1,3 @@
+/home/shakya/CLionProjects/echoService/cmake-build-debug/CMakeFiles/echoService.dir
+/home/shakya/CLionProjects/echoService/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shakya/CLionProjects/echoService/cmake-build-debug/CMakeFiles/rebuild_cache.dir
