@@ -22,7 +22,7 @@ void clearBuf(char *ack){
 
 int main(int argc, char const* argv[])
 {
-    int server_fd, new_socket, valread;
+    int server_fd, new_socket;
     struct sockaddr_in address;
     int addrlen = sizeof(address);
     int bufSize = 1024;
